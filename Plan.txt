@@ -1,0 +1,54 @@
+Pages:
+
+Roli:
+User
+Admin
+
+Homepage:
+-scroll through games
+(maybe a search bar)
+(igrite iskam da se poqvqvat kato banneri neshto kato v steamrip)
+
+Game page (smisul za vsqka igra):
+-list of guides for the chosen game
+(sortirane po views, ratings, likes? moje bi ne znam)
+-suggest a guide kopche ---> prashta te kum create page kudeto 
+kato si napravish guide-a go prashtash za odobrenie i se poqvqva v sajta sled kato go odobri admin.
+
+Guide page:
+ako si user:
+Vijdash guide-a
+
+ako si creator na guide-a:
++ edit, delete -> prashtat kum edit page i ako cuknesh delete te pita dali si siguren
+
+ako si admin:
++ edit, delete -> ~ 
+
+-tuka ako imame review-ta na guideovete log-nati useri mogat da kachvat review-ta/komentari "tozi guide beshe mnogo sigma blah blah 8/10"
+
+Create page, Edit page:
+
+Trqbva da izmislim kakvo tochno shte ima v edin guide za da vidim kakvo tochno shte pravim s create page-a
+
+------------------------------------------------------------------------
+
+Taka che osnovni neshta:
+
+User i Admin rolq
+
+Homepage, Game page, Guide page, Create page. Edit page
+
+Dopulnitelni neshta:
+
+Search bar na homepage
+Sortirane na guideovete v game page-a po nqkvi kriterii / pak search bar 
+Dobavqne na komentari/review-ta/wtv na guide page-a
+Da napravim taka che kato pravish guide mojesh da go oformqsh kakto si iskash s dumi i snimki (ne znam kak stava tva)
+
+
+
+
+
+
+
