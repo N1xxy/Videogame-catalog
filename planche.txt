@@ -1,0 +1,17 @@
+search bar - Az
+library page - Az
+buy kopche na vsqka igra - Az
+
+
+
+Roles:
+
+Admin
+-Accept/Deny game dev requests page - Velin
+
+Game dev - Velin
+-Send request page - Velin
+
+User
+- Posts reviews/buys games - Az
+- Library page - Az
